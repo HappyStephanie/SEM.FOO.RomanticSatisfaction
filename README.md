@@ -12,9 +12,13 @@ The dataset for this study was self-collected and is not publicly available due 
 
 ### Brief Instructions for Each File
 'data_C': Contains the code used to process the Chinese data.
+
 'data_US': Contains the code used to process the American data.
+
 'assumptions': Includes code for verifying if the data meet specific assumptions.
+
 'RQ_US': Used for analyzing parts of the research questions using only American data.
+
 'RQ_W_C': Used for analyzing parts of the research questions also requiring Chinese data.
 
 ### Contact Information
